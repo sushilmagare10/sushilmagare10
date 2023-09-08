@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Full Stack E-Commerce Web app**
+- 🔭 I’m currently working on **Portfolio App (NextJS 13)**
 
-- 🌱 I’m currently learning **NodeJS and Express JS**
+- 🌱 I’m currently learning **TypeScript and NextJS 13**
 
 - 💬 Ask me about **React , JavaScript , CSS**
 
