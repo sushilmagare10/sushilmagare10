@@ -1,19 +1,21 @@
-<h2 align="left">Hi 👋! My name is Sushil and I'm a Web Developer from Pune</h2>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Sushil</h1>
+- 🌱 I’m currently learning **TypeScript**
 
-###
+- 💬 Ask me anything **about MERN Stack**
+- 
+- 📫 How to reach me **sushilmagare10@gmail.com**
+- 
+- 👨‍💻 All of my projects are available at **https://sushil-personal-portfolio.vercel.app/**
 
-<div align="center">
-  <img height="" src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif"  />
-</div>
+<div> <a href="https://www.linkedin.com/in/www.linkedin.com/in/sushil-magare-7a3bba252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:sushilmagare10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/sushil-magare-7a3bba252" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sushil-magare-7a3bba252" height="30" width="40" /></a><a href="https://dev.to/https://sushil-personal-portfolio.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="https://sushil-personal-portfolio.vercel.app/" height="30" width="40" /></a></p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gruvbox&hide_border=true" height="196" alt="languages graph"  />
-</div>
-
-###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
   <img width="20" />
@@ -46,21 +48,8 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="55" alt="mongodb logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="sushilmagare10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/sushil-magare-7a3bba252" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sushilmagare10/sushilmagare10/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gruvbox&hide_border=true" height="196" alt="languages graph"  />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
