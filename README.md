@@ -1,3 +1,6 @@
+[![An image of @sushilmagare10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushilmagare10)](https://holopin.io/@sushilmagare10)
+
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sushil</h1>
 - 🌱 I’m currently learning **TypeScript**
