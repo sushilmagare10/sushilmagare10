@@ -1,22 +1,23 @@
 [![An image of @sushilmagare10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushilmagare10)](https://holopin.io/@sushilmagare10)
 
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Sushil</h1>
-- 🌱 I’m currently learning **TypeScript**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sushil Magare
+=====================================================================================================================================
 
-- 💬 Ask me anything **about MERN Stack**
-- 
-- 📫 How to reach me **sushilmagare10@gmail.com**
-- 
-- 👨‍💻 All of my projects are available at **https://sushil-personal-portfolio.vercel.app/**
+I'm a Web Developer. I enjoy building sites & apps. My Focus is React (NextJS)
+------------------------------------------------------------------------------
 
-<div> <a href="https://www.linkedin.com/in/www.linkedin.com/in/sushil-magare-7a3bba252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:sushilmagare10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sushil-magare-7a3bba252" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sushil-magare-7a3bba252" height="30" width="40" /></a><a href="https://dev.to/https://sushil-personal-portfolio.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="https://sushil-personal-portfolio.vercel.app/" height="30" width="40" /></a></p>
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Personal-Portfolio](https://sushil-personal-portfolio.vercel.app/)
+* ✉️  You can contact me at [sushilmagare10@gmail.com](mailto:sushilmagare10@gmail.com)
+* 🚀  I'm currently working on [Blog App (NextJS)]
+* 🧠  I'm learning TypeScript
+* 🤝  I'm open to collaborating on For FullTime Web Developer and internships posts
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/sushil_85390" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/sushilmagare10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Zeref_28" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -51,10 +52,16 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="55" alt="mongodb logo"  />
 </div>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushilmagare10" alt="sushilmagare10" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&show_icons=true&locale=en" alt="sushilmagare10" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="200" alt="languages graph"  />
+###
+
+<div align="center">
+ <a href="http://www.github.com/sushilmagare10"><img src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="sushilmagare10's GitHub stats" height="200" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sushilmagare10&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+###
+
+
