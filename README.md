@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<p >
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilmagare10&theme=vue" alt="sushilmagare10" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sushilmagare10&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
+</div>
