@@ -40,6 +40,7 @@
 </p>
 
 <div align="center">
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=sushilmagare10&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
 </div>
