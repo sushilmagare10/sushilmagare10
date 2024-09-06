@@ -1,6 +1,15 @@
-![👋 Hi, my name is Sushil Magare](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![👋 Hi, my name is Sushil Magare👍](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-</br>**<h3 align="center">👋 Hi, my name is Sushil Magare</h3>**
+<div id="toc">
+  <ul align="left" style="list-style:none">
+    <summary>
+      <h1>
+        Hi, my name is Sushil Magare  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+      </h1>
+    </summary>
+  </ul>
+</div>
+
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:sushilmagare10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
@@ -28,8 +37,7 @@
 </p>
 
 <p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=ayu-mirage&hide_border=false&date_format=d%20F%5B%2C%20Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sushilmagare10&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=ayu-mirage&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
  **<h3 align="left">Support Me</h3>**
